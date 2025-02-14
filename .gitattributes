@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+IMDB-DataPackager/data.json filter=lfs diff=lfs merge=lfs -text
